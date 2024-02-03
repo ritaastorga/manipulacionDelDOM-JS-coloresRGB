@@ -41,3 +41,8 @@ body {
   justify-content: space-around;
   align-items: center;
 }
+
+label,
+p {
+  margin: 20px;
+}
